@@ -1,4 +1,4 @@
-# NTUT OOP Homework Calculator Testing
+# NTUT OOP Homework: Calculator Testing
 
 This repository uses JUnit 4 to test the **Calculator.jar**, which is created by using IntelliJ. The video tutorial of creating a Java Calculator is here:
 
